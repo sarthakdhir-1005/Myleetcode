@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
