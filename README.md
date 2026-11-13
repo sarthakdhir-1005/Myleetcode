@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sarthakdhir-1005/Myleetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
